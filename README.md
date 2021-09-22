@@ -1,1 +1,1 @@
-# Radar-Vegetation-Index-Calculation-using-Python
+# Radar-Vegetation-Index-(RVI)-Calculation-using-Python
